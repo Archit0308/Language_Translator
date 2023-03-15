@@ -1,5 +1,5 @@
 # Language_Translator
-It is effortless for users to translate text to various languages, replicate the translated content, and transform the written words into speech.
+I made a langage translator which allows users to translate text to various languages, replicate the translated content, and transform the written words into speech.
 
 An application that translates languages is a program created to convert text or verbal communication from one language into another. These applications employ technology for machine translation, which enables the analysis and comprehension of initial linguistic content before being rendered in the required dialect. Certain apps can also generate auditory translations, enabling users to hear spoken translations orally. 
 
